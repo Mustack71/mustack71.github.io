@@ -5,3 +5,36 @@ body {
 p {
     colour:green;
     }
+
+body {
+    font-size:20px;
+    background-color: #E8F5E9;
+    font-weight: bold;
+    margin: 2px 2px 2px 2px;
+}
+.Mustack71 {
+  background-color: green;
+  color: white;
+  text-align: center;
+  height: 90px;
+  padding: 2px 2px 2px 2px;
+
+}
+.class {
+  background-color: #C8E6C9;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 0px;
+  margin: 5px 5px 5px 5px;
+  
+  
+}
+.exam {
+  background-color: #C8E6C9;
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+.date{
+  font-size: 16px;
+  font-weight: normal;
+}
